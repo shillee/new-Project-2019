@@ -75,6 +75,12 @@ svg {
 }
 .headhesive {
   background-color: #000;
+  position: fixed;
+  width: 100%;
+  transform: translateY(-100%);
+}
+.headhesive--stick {
+  transform: translateY(0);
 }
 @media screen and (max-width: 980px){
   
