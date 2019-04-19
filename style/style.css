@@ -4,7 +4,7 @@
 }
 
 header {
-  background-color: #000;
+  background-color: rgb(121, 119, 122);
 }
 
 .main-header {
@@ -34,8 +34,11 @@ svg {
 
 .menu ul a {
   text-decoration: none;
-  color: rgb(121, 119, 122);
+  color: #000000;
   font-size: 25px;
   line-height: 100px;
+}
+.headhesive {
+  background-color: #000;
 }
 /*# sourceMappingURL=style.css.map */
